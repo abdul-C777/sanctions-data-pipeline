@@ -136,7 +136,7 @@ npm test             # tests
 - Added new features as per client requirements
 - Made the database connection configurable and loaded the data into MySQL
 
-The REST API layer was developed by a teammate.
+The REST API layer was developed with the help of a teammate.
 
 ## Planned improvements
 
